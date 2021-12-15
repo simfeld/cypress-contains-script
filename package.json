@@ -1,0 +1,14 @@
+{
+  "name": "cypress-contains-script",
+  "version": "1.0.0",
+  "author": "Samuel Imfeld",
+  "license": "MIT",
+  "scripts": {
+    "app:start": "http-server",
+    "cypress:start": "cypress open"
+  },
+  "dependencies": {
+    "cypress": "^9.1.1",
+    "http-server": "^14.0.0"
+  }
+}
